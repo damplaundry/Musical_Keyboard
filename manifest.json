@@ -2,9 +2,9 @@
     "manifest_version": 3,
     "name": "Musical Keyboard",
     "description": "Base Level Extension",
-    "version": "0.0",
+    "version": "1.0",
     "action": {
       "default_popup": "hello.html",
-      "default_icon": "hello_extensions.png"
+      "default_icon": "default_icon.png"
     }
   }
